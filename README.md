@@ -1,7 +1,5 @@
 This is a Flutter based Notes App, which is protected by FaceID, TouchID or any other safety authentications in your local machine.
 
-This is a project made by MEET SINGH during the Microsoft Engage Program 2022.
-
 This project uses flutter plugins like localauth, sqflite and other to import various functionalities.
 
 Latest Android Version(12) is required for FACEID to be working properly.(Does not support UIs like MIUI or VIVOui for FACEID)
